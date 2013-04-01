@@ -1,0 +1,12 @@
+self: play -> jade-plugin 0.1
+
+require:
+    - play
+    - de.neuland -> jade4j 0.3.10
+    - org.apache.commons -> commons-jexl 2.1.1
+    - commons-collections -> commons-collections 3.2.1
+    - commons-io -> commons-io 2.1
+    - org.apache.commons -> commons-lang3 3.1
+    - com.googlecode.concurrentlinkedhashmap ->  concurrentlinkedhashmap-lru 1.3.1
+    - org.hamcrest -> hamcrest-all 1.1
+    - org.pegdown -> pegdown 1.1.0
