@@ -4,7 +4,7 @@ play-jade-module
 [1.2.5] primitive jade plugin
 
 #### Usage
-`#{jade.print 'index.jade', context:[youAreUsingJade:isTrue,pageTitle:'oh gosh!']/}`
+`#{jade.print 'index.jade', context:[youAreUsingJade:true,pageTitle:'oh gosh!']/}`
 
 ##### View
     doctype 5
